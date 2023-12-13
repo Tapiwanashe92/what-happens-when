@@ -709,3 +709,6 @@ page rendering and painting.
 .. _`downgrade attack`: http://en.wikipedia.org/wiki/SSL_stripping
 .. _`OSI Model`: https://en.wikipedia.org/wiki/OSI_model
 .. _`Spanish`: https://github.com/gonzaleztroyano/what-happens-when-ES
+
+DNS request
+The first step in the process is a DNS request. DNS stands for Domain Name System, which is a protocol used to translate human-readable domain names like www.google.com into IP addresses, which are unique numerical identifiers that computers use to locate each other on the internet. Your computer sends a DNS request to a DNS server to find out the IP address associated with the domain name www.google.com.
